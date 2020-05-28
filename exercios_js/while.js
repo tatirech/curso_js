@@ -10,4 +10,4 @@ while (opcao != -1) {
     opcao = getInteiro (-1, 10)
     console.log ( 'Opcao escolhida foi ' + opcao)
 } 
-console.log ('Ate á proxima')
+console.log ('Ate á proxima!git')
