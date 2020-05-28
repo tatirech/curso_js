@@ -1,11 +1,11 @@
-function SequenciaLivio(max,contador) {
+function SequenciaJogo(max,contador) {
     return max / contador;
 }
 function getNumbers(min,max){
     return Math.floor(Math.random() * (max - min) + min)
 }
 let cont = 1;
-while (cont <= 2) {
+while (cont <= 5) {
     
     console.log("Sequencia numero: " + cont)
     for(i=1;i<=6;i++){
