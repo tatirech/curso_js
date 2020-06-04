@@ -9,3 +9,4 @@ const falar = pessoa.falar
 falar()
 const falarDePessoa = pessoa.falar.bind(pessoa)
 falarDePessoa() 
+

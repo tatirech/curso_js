@@ -6,3 +6,12 @@ function Pessoa () {
     }.bind (this), 1000)
 }
 funtion = new Pessoa
+
+
+
+function prancha () {
+    this.idade=2
+    setInterval function (){
+        self.idade
+    }
+}
