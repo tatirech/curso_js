@@ -9,9 +9,3 @@ funtion = new Pessoa
 
 
 
-function prancha () {
-    this.idade=2
-    setInterval function (){
-        self.idade
-    }
-}
